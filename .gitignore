@@ -2,3 +2,4 @@ compiler/compiler
 8bit-computer/memory.list
 8bit-computer/*.
 .DS_Store
+8bit-computer/
